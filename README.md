@@ -39,3 +39,6 @@
 
 # 5. Switch
 * [大气层系统](https://github.com/Atmosphere-NX/Atmosphere)
+
+# 6. Linux
+* [英汉/汉英翻译工具](https://github.com/ChestnutHeng/Wudao-dict)
